@@ -26,9 +26,9 @@ const Header = () => {
         <div className={style.title}>
           <Link to={"/"}>
             <h4>
-              InnerLoop
+              rob
               <span style={{ color: "red" }}>@</span>
-              Velocity
+              kiskanyan
             </h4>
           </Link>
         </div>

@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `InnerLoop`,
+    title: `RobKiskanyan`,
     description: `A blog where I keep all of my notes.`,
     author: `Robby`,
-    siteUrl: `https://www.innerloopvelocity.com`,
+    siteUrl: `https://www.robkiskanyan.com`,
   },
   plugins: [
     {
@@ -11,7 +11,7 @@ module.exports = {
       options: {
         token:
           "8ad58b5ea5f143eb909c990d56012938371dcbccc434f51d71d62bd3df452e8e",
-        domain: "innerloopvelocity.com",
+        domain: "robkiskanyan.com",
       },
     },
     `gatsby-plugin-react-helmet`,
