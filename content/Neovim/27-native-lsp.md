@@ -2,7 +2,7 @@
 title: Native LSP in Neovim
 date: "2021-03-10"
 image: "neovim.png"
-author: "Chris"
+author: "Robby"
 tags: ["neovim"]
 ---
 

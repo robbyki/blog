@@ -2,7 +2,7 @@
 title: Installing DWM
 date: "2020-07-11"
 image: "dwm.png"
-author: "Chris"
+author: "Robby"
 tags: ["linux", "dwm"]
 ---
 

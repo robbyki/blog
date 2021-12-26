@@ -2,7 +2,7 @@
 title: Project Wide Find & Replace w/ FAR
 date: "2020-09-14"
 image: "neovim.png"
-author: "Chris"
+author: "Robby"
 tags: ["neovim"]
 ---
 
@@ -13,7 +13,7 @@ FAR is a Vim/Neovim plugin that will allow you to perform project wide find & re
 - Install with Vim-plug:
 
     ```
-    Plug 'ChristianChiarulli/far.vim'
+    Plug 'RobbytianChiarulli/far.vim'
     ```
 
 ( **NOTE** )

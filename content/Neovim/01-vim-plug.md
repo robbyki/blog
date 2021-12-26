@@ -3,7 +3,7 @@ title: Plugins with Vim-Plug
 description:
 date: "2020-04-23"
 image: "neovim.png"
-author: "Chris"
+author: "Robby"
 tags: ["neovim"]
 ---
 

@@ -2,7 +2,7 @@
 title: Install MongoDB Arch Linux
 date: "2020-11-25"
 image: "arch-logo.png"
-author: "Chris"
+author: "Robby"
 tags: ["archlinux", "mongodb"]
 ---
 

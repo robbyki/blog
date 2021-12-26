@@ -2,7 +2,7 @@
 title: LSP Completion Symbols in CoC
 date: "2021-02-15"
 image: "neovim.png"
-author: "Chris"
+author: "Robby"
 tags: ["neovim"]
 ---
 

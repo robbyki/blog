@@ -3,7 +3,7 @@ title: Install Multiple Versions of Java with SDKMAN
 description: description
 date: "2021-03-12"
 image: "sdkman.png"
-author: "Chris"
+author: "Robby"
 tags: ["java"]
 ---
 

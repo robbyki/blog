@@ -3,7 +3,7 @@ title: Floaterm
 description:
 date: "2020-05-15"
 image: "neovim.png"
-author: "Chris"
+author: "Robby"
 tags: ["neovim"]
 ---
 

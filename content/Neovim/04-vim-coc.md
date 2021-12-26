@@ -3,7 +3,7 @@ title: Neovim Intellisense with coc
 description:
 date: "2020-04-26"
 image: "neovim.png"
-author: "Chris"
+author: "Robby"
 tags: ["neovim"]
 ---
 

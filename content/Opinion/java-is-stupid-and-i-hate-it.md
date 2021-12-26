@@ -2,7 +2,7 @@
 title: I hate Java (and Spring)
 date: "2020-10-07"
 image: "stupid-java-meme.png"
-author: "Chris"
+author: "Robby"
 tags: ["opinion"]
 ---
 

@@ -3,7 +3,7 @@ title: Use Xrandr to choose resolution in VirtualBox
 description: description
 date: "2021-08-12"
 image: "xrandr.png"
-author: "Chris"
+author: "Robby"
 tags: ["linux", "virtualbox"]
 ---
 

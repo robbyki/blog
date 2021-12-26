@@ -2,7 +2,7 @@
 title: TTY Fonts
 date: "2021-03-29"
 image: "terminus-fonts.jpg"
-author: "Chris"
+author: "Robby"
 tags: ["linux"]
 ---
 

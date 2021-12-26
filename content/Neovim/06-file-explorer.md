@@ -3,7 +3,7 @@ title: Exploring coc-explorer
 description:
 date: "2020-04-28"
 image: "neovim.png"
-author: "Chris"
+author: "Robby"
 tags: ["neovim"]
 ---
 

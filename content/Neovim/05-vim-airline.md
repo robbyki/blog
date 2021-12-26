@@ -3,7 +3,7 @@ title: Airline
 description:
 date: "2020-04-27"
 image: "neovim.png"
-author: "Chris"
+author: "Robby"
 tags: ["neovim"]
 ---
 

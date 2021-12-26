@@ -2,7 +2,7 @@
 title: Steam on Arch Linux
 date: "2020-09-20"
 image: "steam.jpg"
-author: "Chris"
+author: "Robby"
 tags: ["linux"]
 ---
 

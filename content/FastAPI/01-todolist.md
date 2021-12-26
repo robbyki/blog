@@ -2,7 +2,7 @@
 title: Creating a Todo list with FastAPI
 date: "2020-11-21"
 image: "fastapi.png"
-author: "Chris"
+author: "Robby"
 tags: ["fastapi"]
 ---
 
@@ -66,4 +66,4 @@ pip install fastapi[all] ## this installs a lot of useful stuff
 
 ## Code for TODO List
 
-[link](https://github.com/ChristianChiarulli/todolist)
+[link](https://github.com/RobbytianChiarulli/todolist)

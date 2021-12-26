@@ -2,7 +2,7 @@
 title: Installing Nerd Fonts
 date: "2020-05-23"
 image: "nerdfont.png"
-author: "Chris"
+author: "Robby"
 tags: ["archlinux", "fonts"]
 ---
 

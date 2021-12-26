@@ -2,7 +2,7 @@
 title: First Smart Contract
 date: "2021-01-24"
 image: "solidity_logo.png"
-author: "Chris"
+author: "Robby"
 tags: ["solidity", "blockchain"]
 ---
 

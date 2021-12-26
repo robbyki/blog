@@ -3,7 +3,7 @@ title: Installing NVM for Node.js
 description: description
 date: "2019-03-17"
 image: "nvm.jpg"
-author: "Chris"
+author: "Robby"
 tags: ["nodejs"]
 ---
 

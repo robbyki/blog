@@ -3,7 +3,7 @@ title: Changing remote Git repo
 description: description
 date: "2020-07-18"
 image: git.png
-author: "Chris"
+author: "Robby"
 tags: ["git"]
 ---
 

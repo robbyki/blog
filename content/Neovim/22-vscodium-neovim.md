@@ -2,7 +2,7 @@
 title: VSCodium & Neovim
 date: "2020-09-01"
 image: "neovim.png"
-author: "Chris"
+author: "Robby"
 tags: ["neovim"]
 ---
 
@@ -83,11 +83,11 @@ Search for the Which-key extension
 
 You can find sample configurations in my `nvim` repo
 
-- General/which-key settings: [settings.json](https://github.com/ChristianChiarulli/nvim/blob/master/utils/vscode_config/settings.json)
+- General/which-key settings: [settings.json](https://github.com/RobbytianChiarulli/nvim/blob/master/utils/vscode_config/settings.json)
 
-- Keybindings: [keybindings.json](https://github.com/ChristianChiarulli/nvim/blob/master/utils/vscode_config/keybindings.json)
+- Keybindings: [keybindings.json](https://github.com/RobbytianChiarulli/nvim/blob/master/utils/vscode_config/keybindings.json)
 
-- Neovim settings [settings.vim](https://github.com/ChristianChiarulli/nvim/blob/master/vscode/settings.vim)
+- Neovim settings [settings.vim](https://github.com/RobbytianChiarulli/nvim/blob/master/vscode/settings.vim)
 
 ## Links to repos
 

@@ -3,7 +3,7 @@ title: Connect Bluetooth Keyboard Linux
 description: description
 date: "2021-08-14"
 image: "wireless_keyboard.jpg"
-author: "Chris"
+author: "Robby"
 tags: ["linux"]
 ---
 

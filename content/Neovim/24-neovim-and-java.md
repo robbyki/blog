@@ -2,7 +2,7 @@
 title: Java in Neovim
 date: "2020-11-04"
 image: "Neovim_Java.png"
-author: "Chris"
+author: "Robby"
 tags: [neovim]
 ---
 

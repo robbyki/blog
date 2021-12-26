@@ -2,7 +2,7 @@
 title: Using Live Server with Neovim
 date: "2020-07-30"
 image: "neovim.png"
-author: "Chris"
+author: "Robby"
 tags: [neovim]
 ---
 

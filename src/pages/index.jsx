@@ -32,40 +32,26 @@ const IndexPage = () => {
 					</div>
 					<div className={style.content}>
 						<span>
-							My name is Robby, I
-						pretty much live at a terminal
-						and I'm thoroughly obsessed
-						with continuously learning ways
-						to improve my workflow and
-						adopting faster ways to do
-						repetitive tasks. I enjoy
-						working with code to build
-						useful things that bring joy to
-						developers. I've spent most of
-						my career helping modernize
-						data intensive stacks using
-						open source technologies. I
-						started my career in
-						engineering at Yahoo using a
-						lot of Python, Pandas, Spark
-						and SQL helping to wrangle and
-						visualize massive amounts of
-						data for the ad exchange. After
-						Yahoo I joined the Weather
-						Channel to help launch the
-						first of its kind Data Science
-						platform to enable weather
-						triggered ads on AWS services
-						with Spark. More recently I
-						have built Spark development
-						environments with Scala and sbt
-						for deployments to Kubernetes
-						at IBM. I've been developing in
-						Fedora and Redhat environments
-						for a long time and recently
-						transitioned to a completely
-						neovim based environment for
-						development.
+              My name is Robby, I pretty much live at a terminal and I'm
+            thoroughly obsessed with continuously learning ways to improve my
+            workflow and adopting faster ways to do repetitive tasks. I enjoy
+            working with code and tools to build useful things that bring joy
+            to developers. I've spent most of my career helping modernize data
+            intensive stacks using open source technologies. I fell in love
+            with development during my time at Yahoo where I used a lot of
+            Python, Pandas and SQL to help wrangle and visualize data extracted
+            from HDFS using basic bash scripts to automate extractions from a
+            rest api. After Yahoo I joined the Weather Channel to help launch
+            the first of its kind Data Science platform to enable weather
+            triggered ads where I learned a lot about using AWS cloud services
+            along with Spark and serverless computing on EC2 and also had the
+            chance to showcase and teach others about exploratary data analysis
+            using Jupyter notebooks. More recently I have built Spark
+            development environments with Scala and sbt for containerized
+            deployments to Kubernetes and Openshift at IBM. I've been
+            developing in Fedora and Redhat environments for a long time and
+            recently transitioned to a completely neovim based environment for
+            most of my development.
             </span>
 					</div>
 				</div>

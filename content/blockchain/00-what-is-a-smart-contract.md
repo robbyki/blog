@@ -2,8 +2,8 @@
 title: What is a Smart Contract?
 date: "2021-08-12"
 image: "solidity_logo.png"
-author: "Chris"
-tags: ["solidity", "blockchain"]
+author: "Robby"
+tags: ["neovim"]
 ---
 
 ## What is a contract?

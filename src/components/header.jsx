@@ -6,9 +6,9 @@ import {
   FaYoutube,
   FaBars,
   FaTimes,
-  FaDiscord,
-  FaPatreon,
-  FaRss,
+  // FaDiscord,
+  // FaPatreon,
+  // FaRss,
   FaTwitter,
 } from "react-icons/fa"
 import style from "./header.module.less"
@@ -89,27 +89,9 @@ const Header = () => {
             <a
               target="_blank"
               rel="nofollow noopener noreferrer"
-              href={"https://discord.gg/AVCD8Cet"}
-            >
-              <FaDiscord color="#768AD4" size="30" />
-            </a>
-          </li>
-          <li>
-            <a
-              target="_blank"
-              rel="nofollow noopener noreferrer"
               href={"https://www.linkedin.com/in/robkiskanyan/"}
             >
               <FaLinkedin color="#3077B0" size="30" />
-            </a>
-          </li>
-          <li>
-            <a
-              target="_blank"
-              rel="nofollow noopener noreferrer"
-              href={"https://www.patreon.com/robbyki"}
-            >
-              <FaPatreon color="#E8715C" size="30" />
             </a>
           </li>
         </ul>
@@ -118,6 +100,7 @@ const Header = () => {
   )
 }
 
+export default Header
 // <li>
 //   <a
 //     target="_blank"
@@ -127,5 +110,22 @@ const Header = () => {
 //     <FaRss color="#E89D4B" size="30" />
 //   </a>
 // </li>
-
-export default Header
+          // <li>
+          //   <a
+          //     target="_blank"
+          //     rel="nofollow noopener noreferrer"
+          //     href={"https://discord.gg/AVCD8Cet"}
+          //   >
+          //     <FaDiscord color="#768AD4" size="30" />
+          //   </a>
+          // </li>
+          // <li>
+          //   <a
+          //     target="_blank"
+          //     rel="nofollow noopener noreferrer"
+          //     href={"https://www.patreon.com/robbyki"}
+          //   >
+          //     <FaPatreon color="#E8715C" size="30" />
+          //   </a>
+          // </li>
+          //

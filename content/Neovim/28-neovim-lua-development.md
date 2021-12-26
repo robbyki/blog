@@ -2,7 +2,7 @@
 title: Setup Neovim for Lua Development
 date: "2021-03-11"
 image: "neovim.png"
-author: "Chris"
+author: "Robby"
 tags: ["neovim"]
 ---
 

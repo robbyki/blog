@@ -3,7 +3,7 @@ title: Installing Fast Node Manager (fnm)
 description: description
 date: "2020-07-30"
 image: "fnm.png"
-author: "Chris"
+author: "Robby"
 tags: ["nodejs"]
 ---
 

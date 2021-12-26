@@ -3,7 +3,7 @@ title: Deepspeech basics
 description: description
 date: "2020-04-10"
 image: "mozilla-deepspeech.png"
-author: "Chris"
+author: "Robby"
 tags: ["deepspeech"]
 ---
 

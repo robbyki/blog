@@ -2,7 +2,7 @@
 title: var, let, const
 date: "2020-07-20"
 image: "javascript.jpg"
-author: "Chris"
+author: "Robby"
 tags: ["javascript"]
 ---
 

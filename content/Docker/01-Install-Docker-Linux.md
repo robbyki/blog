@@ -2,7 +2,7 @@
 title: Install Docker on Linux
 date: "2021-06-25"
 image: "docker_logo.png"
-author: "Chris"
+author: "Robby"
 tags: ["archlinux", "docker"]
 ---
 

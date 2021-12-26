@@ -3,11 +3,11 @@ title: Intro to Spring Boot
 description: description
 date: "2019-04-12"
 image: "Spring-Boot.png"
-author: "Chris"
+author: "Robby"
 tags: ["spring"]
 ---
 
-Code can be found [here](https://github.com/ChristianChiarulli/SpringBootIntro)
+Code can be found [here](https://github.com/RobbytianChiarulli/SpringBootIntro)
 
 This is a spring boot application which provides REST endpoints to perform CRUD operations on topics and related courses
 

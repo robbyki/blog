@@ -3,7 +3,7 @@ title: Neovim Setting up the basics
 description:
 date: "2020-04-24"
 image: "neovim.png"
-author: "Chris"
+author: "Robby"
 tags: ["neovim"]
 ---
 

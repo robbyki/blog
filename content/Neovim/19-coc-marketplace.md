@@ -2,7 +2,7 @@
 title: Discovering extensions with coc-marketplace
 date: "2020-06-11"
 image: "neovim.png"
-author: "Chris"
+author: "Robby"
 tags: [neovim]
 ---
 

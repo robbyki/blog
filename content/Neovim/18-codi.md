@@ -2,7 +2,7 @@
 title: Codi - An Interactive Scratchpad for Hackers
 date: "2020-05-26"
 image: "neovim.png"
-author: "Chris"
+author: "Robby"
 tags: ["neovim"]
 ---
 
@@ -19,7 +19,7 @@ Languages with built-in support: Python, JavaScript, CoffeeScript, Haskell, Pure
 - Updated Version with Virtual text
 
   ```
-  Plug 'ChristianChiarulli/codi.vim'
+  Plug 'RobbytianChiarulli/codi.vim'
   ```
 
 - Original
@@ -98,4 +98,4 @@ Hopefully they update it soon.
 
 [YouTube video where I found this](https://www.youtube.com/watch?v=iGrUvcQyfhc)
 
-[My fork](https://github.com/ChristianChiarulli/codi.vim)
+[My fork](https://github.com/RobbytianChiarulli/codi.vim)

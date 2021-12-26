@@ -2,7 +2,7 @@
 title: Vimspector (for Java)
 date: "2020-11-05"
 image: "neovim.png"
-author: "Chris"
+author: "Robby"
 tags: ["neovim"]
 ---
 

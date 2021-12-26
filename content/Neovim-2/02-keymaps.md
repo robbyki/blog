@@ -3,7 +3,7 @@ title: Neovim Setting keymaps
 description:
 date: "2021-11-28"
 image: "neovim.png"
-author: "Chris"
+author: "Robby"
 tags: ["neovim-s-2"]
 ---
 

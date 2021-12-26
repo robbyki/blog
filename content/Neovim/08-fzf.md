@@ -3,7 +3,7 @@ title: Integrate Neovim with FZF & more
 description:
 date: "2020-04-30"
 image: "neovim.png"
-author: "Chris"
+author: "Robby"
 tags: ["neovim"]
 ---
 

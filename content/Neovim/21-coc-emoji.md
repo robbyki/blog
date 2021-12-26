@@ -2,7 +2,7 @@
 title: Emojis in Neovim 💯👍😜
 date: "2020-07-31"
 image: "neovim.png"
-author: "Chris"
+author: "Robby"
 tags: [neovim]
 ---
 

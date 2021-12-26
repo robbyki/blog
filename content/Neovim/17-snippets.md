@@ -2,7 +2,7 @@
 title: Snippets with CoC
 date: "2020-05-22"
 image: "neovim.png"
-author: "Chris"
+author: "Robby"
 tags: ["neovim"]
 ---
 

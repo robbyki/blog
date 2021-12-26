@@ -3,7 +3,7 @@ title: Neovim Setting basic options
 description:
 date: "2021-11-29"
 image: "neovim.png"
-author: "Chris"
+author: "Robby"
 tags: ["neovim-s-2"]
 ---
 

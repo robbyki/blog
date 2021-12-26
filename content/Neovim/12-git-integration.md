@@ -3,7 +3,7 @@ title: Git integration
 description:
 date: "2020-05-02"
 image: "neovim.png"
-author: "Chris"
+author: "Robby"
 tags: ["neovim"]
 ---
 

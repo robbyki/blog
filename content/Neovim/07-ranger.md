@@ -3,7 +3,7 @@ title: Integrate Neovim with Ranger
 description:
 date: "2020-04-29"
 image: "neovim.png"
-author: "Chris"
+author: "Robby"
 tags: ["neovim"]
 ---
 

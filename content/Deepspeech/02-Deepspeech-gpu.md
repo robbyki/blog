@@ -3,7 +3,7 @@ title: Deepspeech using a GPU
 description: blog post
 date: "2020-04-13"
 image: "mozilla-deepspeech.png"
-author: "Chris"
+author: "Robby"
 tags: [deepspeech]
 ---
 

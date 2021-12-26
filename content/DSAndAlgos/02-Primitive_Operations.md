@@ -2,7 +2,7 @@
 title: Primitive Operations
 date: "2020-05-19"
 image: "ds-algo-blog.png"
-author: "Jason"
+author: "Robby"
 tags: ["ds-algo"]
 ---
 
