@@ -11,7 +11,7 @@ import style from "./index.module.less"
 const IndexPage = () => {
 	return (
 		<Layout>
-			<h1 style={{ textAlign: "center", marginTop: "80px" }}>Portfolio</h1>
+			<h1 style={{ textAlign: "center", marginTop: "80px" }}>Welcome</h1>
 			<SEO title="Home" keywords={["robkiskanyan"]} />
 			<div className={style.card}>
 				<div className={style.post}>
@@ -31,28 +31,46 @@ const IndexPage = () => {
 						</a>
 					</div>
 					<div className={style.content}>
-						<span>
-              My name is Robby, I pretty much live at a terminal and I'm
-            thoroughly obsessed with continuously learning ways to improve my
-            workflow and adopting faster ways to do repetitive tasks. I enjoy
-            working with code and tools to build useful things that bring joy
-            to developers. I've spent most of my career helping modernize data
-            intensive stacks using open source technologies. I fell in love
-            with development during my time at Yahoo where I used a lot of
-            Python, Pandas and SQL to help wrangle and visualize data extracted
-            from HDFS using basic bash scripts to automate extractions from a
-            rest api. After Yahoo I joined the Weather Channel to help launch
-            the first of its kind Data Science platform to enable weather
-            triggered ads where I learned a lot about using AWS cloud services
-            along with Spark and serverless computing on EC2 and also had the
-            chance to showcase and teach others about exploratary data analysis
-            using Jupyter notebooks. More recently I have built Spark
-            development environments with Scala and sbt for containerized
-            deployments to Kubernetes and Openshift at IBM. I've been
-            developing in Fedora and Redhat environments for a long time and
-            recently transitioned to a completely neovim based environment for
-            most of my development.
-            </span>
+	    <span> My name is Robby and besides for being the best father and
+						husband I can be to my beautiful
+						children and wife, I spend a
+						great deal of my time at a
+						terminal I tend to call my happy
+						place. Like many others, my
+						pathway to programming was not a
+						conventional one and my destiny
+						decided that I would ignite my
+						career a little later in life
+						but I'm grateful none the less
+						that it eventually found me or I
+						found it. As you get older it's
+						fun to get increasing clarity
+						about the fundamentals that
+						propel you forward in life; of
+						course the nature of the work
+						and the tasks change over time
+						but the lowest common
+						denominator and the elemental
+						fuel that gets you up each
+						morning I would argue are not as
+						fluid. I fell in love with
+						technology when I realized what
+						it allowed me to achieve even
+						with completely free software
+						and a few life changing mentors
+						along the way. That level of
+						freedom and control I
+						experienced over my own
+						production constrained by the
+						limits of my imagination and
+						creativity (and learned skills)
+						was and has always been pretty
+						intoxicating. I've been
+						developing in Fedora and Redhat
+						environments for a long time and
+						recently transitioned to a
+						completely neovim based
+						workflow.</span>
 					</div>
 				</div>
 			</div>
