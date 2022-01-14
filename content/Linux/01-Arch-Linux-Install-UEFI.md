@@ -4,7 +4,7 @@ description: description
 date: "2020-03-30"
 image: "arch-logo.png"
 author: "Robby"
-tags: ["archlinux"]
+tags: ["bloop"]
 ---
 <!---->
 <!-- ## A Note about installing Arch Linux -->

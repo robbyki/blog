@@ -4,7 +4,7 @@ description: description
 date: "2021-08-12"
 image: "remarkable.png"
 author: "Robby"
-tags: ["archlinux"]
+tags: ["bloop"]
 ---
 
 <!-- ## Enable USB web interface -->

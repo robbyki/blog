@@ -4,7 +4,7 @@ description: description
 date: "2020-05-14"
 image: "arch-logo.png"
 author: "Robby"
-tags: ["archlinux"]
+tags: ["bloop"]
 ---
 <!---->
 <!-- ## What is the AUR? -->

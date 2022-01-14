@@ -3,7 +3,7 @@ title: TBD
 date: "2020-05-23"
 image: "nerdfont.png"
 author: "Robby"
-tags: ["fonts"]
+tags: ["tbd"]
 ---
 <!---->
 <!-- ## What are Nerd Fonts? -->
