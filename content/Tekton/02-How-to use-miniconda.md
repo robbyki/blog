@@ -1,5 +1,5 @@
 ---
-title: Managing Environments with Miniconda
+title: TBD
 description: description
 date: "2019-06-28"
 image: miniconda.jpg

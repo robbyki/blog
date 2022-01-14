@@ -1,9 +1,9 @@
 ---
-title: Install Docker on Linux
+title: TBD
 date: "2021-06-25"
 image: "docker_logo.png"
 author: "Robby"
-tags: ["archlinux", "docker"]
+tags: ["docker"]
 ---
 
 <!---->

@@ -1,5 +1,5 @@
 ---
-title: Setting up a Remote Jupyter Lab Server
+title: TBD
 description: description
 date: "2019-06-25"
 image: "jupyter.png"

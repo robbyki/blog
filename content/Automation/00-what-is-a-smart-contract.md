@@ -1,5 +1,5 @@
 ---
-title: What is a Smart Contract?
+title: TBD
 date: "2021-08-12"
 image: "solidity_logo.png"
 author: "Robby"

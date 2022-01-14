@@ -1,5 +1,5 @@
 ---
-title: Changing remote Git repo
+title: TBD
 description: description
 date: "2020-07-18"
 image: git.png

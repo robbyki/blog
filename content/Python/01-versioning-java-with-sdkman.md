@@ -1,5 +1,5 @@
 ---
-title: Install Multiple Versions of Java with SDKMAN
+title: TBD
 description: description
 date: "2021-03-12"
 image: "sdkman.png"

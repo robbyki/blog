@@ -1,5 +1,5 @@
 ---
-title: Primitive Operations
+title: TBD
 date: "2020-05-19"
 image: "ds-algo-blog.png"
 author: "Robby"

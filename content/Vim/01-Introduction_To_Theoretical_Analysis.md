@@ -1,5 +1,5 @@
 ---
-title: Introduction to Theoretical Analysis
+title: TBD
 date: "2020-07-19"
 image: "ds-algo-blog.png"
 author: "Robby"

@@ -1,5 +1,5 @@
 ---
-title: var, let, const
+title: TBD
 date: "2020-07-20"
 image: "javascript.jpg"
 author: "Robby"

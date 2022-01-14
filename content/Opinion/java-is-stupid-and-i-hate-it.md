@@ -1,5 +1,5 @@
 ---
-title: I hate Java (and Spring)
+title: TBD
 date: "2020-10-07"
 image: "stupid-java-meme.png"
 author: "Robby"

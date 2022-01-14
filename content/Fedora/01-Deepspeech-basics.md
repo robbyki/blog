@@ -1,5 +1,5 @@
 ---
-title: Deepspeech basics
+title: TBD
 description: description
 date: "2020-04-10"
 image: "mozilla-deepspeech.png"

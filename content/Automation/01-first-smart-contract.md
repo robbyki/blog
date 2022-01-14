@@ -1,5 +1,5 @@
 ---
-title: First Smart Contract
+title: TBD
 date: "2021-01-24"
 image: "solidity_logo.png"
 author: "Robby"

@@ -1,5 +1,5 @@
 ---
-title: Installing Fast Node Manager (fnm)
+title: TBD
 description: description
 date: "2020-07-30"
 image: "fnm.png"

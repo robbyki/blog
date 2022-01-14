@@ -1,5 +1,5 @@
 ---
-title: Deepspeech using a GPU
+title: TBD
 description: blog post
 date: "2020-04-13"
 image: "mozilla-deepspeech.png"

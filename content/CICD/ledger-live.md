@@ -1,5 +1,5 @@
 ---
-title: Install Ledger Live on Linux
+title: TBD
 date: "2021-03-28"
 image: "ledger.jpg"
 author: "Robby"

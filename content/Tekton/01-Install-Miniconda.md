@@ -1,5 +1,5 @@
 ---
-title: How to install Miniconda
+title: TBD
 description: description
 date: "2019-06-25"
 image: "miniconda.jpg"
