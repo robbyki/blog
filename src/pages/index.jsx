@@ -37,14 +37,15 @@ const IndexPage = () => {
             conventional one. As you get older it's fun to get increasing clarity about the
             fundamentals that propel you forward in life and the elemental fuel that gets you up
             each morning which I would argue are not as fluid as changing tasks or languages. I fell
-            in love with technology when I realized what it allowed me to achieve even with
-            open source software and a few life changing mentors along the way. The level of
-            freedom and control I experienced over my own production constrained by the limits of my
-            imagination and creativity and learned craft was and has always been pretty
-            intoxicating for me. I've been developing in Fedora and Redhat environments for a long
-            time and recently transitioned to a completely neovim based workflow with more than 100
-            plugins thanks to the incredible population of other like-minded maniacs who think that
-            developer speed and shortcuts are more important than food or water.</span>
+            in love with technology when I realized what it allowed me to achieve even with open
+            source software and a few life changing mentors along the way. The level of freedom and
+            control I experienced over my own production constrained by the limits of my imagination
+            and creativity and learned craft was and has always been pretty intoxicating for me.
+            I've been developing in Fedora and Redhat environments for a long time and recently
+            taught myself dvorak on a kinesis keyboard along with transitioning to a completely
+            neovim based workflow with more than 100 plugins thanks to the incredible population of
+            other like-minded maniacs who think that developer speed and shortcuts are more
+                        important than food or water.</span>
 					</div>
 				</div>
 			</div>
