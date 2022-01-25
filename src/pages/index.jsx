@@ -44,7 +44,7 @@ const IndexPage = () => {
             I've been developing in Fedora and Redhat environments for a long time and recently
             taught myself dvorak on a kinesis keyboard along with transitioning to a completely
             neovim based workflow with more than 100 plugins thanks to the incredible population of
-            other like-minded maniacs who think that developer speed and shortcuts are more
+            other like-minded maniac vimmers who think that developer speed and shortcuts are more
                         important than food or water.</span>
 					</div>
 				</div>
