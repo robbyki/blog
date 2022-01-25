@@ -31,20 +31,17 @@ const IndexPage = () => {
 						</a>
 					</div>
 					<div className={style.content}>
-        <span> My name is Robby and besides for being the best father and husband I can be to my
-            beautiful children and wife, I spend a great deal of my time at a terminal tinkering
-            with Linux systems and like many others, my pathway to programming was not a
-            conventional one. As you get older it's fun to get increasing clarity about the
-            fundamentals that propel you forward in life and the elemental fuel that gets you up
-            each morning which I would argue are not as fluid as changing tasks or languages. I fell
-            in love with technology when I realized what it allowed me to achieve even with open
-            source software and a few life changing mentors along the way. The level of freedom and
-            control I experienced over my own production constrained by the limits of my imagination
-            and creativity and learned craft was and has always been pretty intoxicating for me.
-            I've been developing in Fedora and Redhat environments for a long time and recently
-            taught myself dvorak on a kinesis keyboard along with transitioning to a completely
-            neovim based workflow with more than 100 plugins thanks to the incredible population of
-            other like-minded maniac vimmers who think that developer speed and shortcuts are more
+        <span> My name is Robby and besides for being focused on trying to be the best father and
+            husband I can be to my beautiful wife and children, I spend a great deal of my time at a
+            terminal tinkering with Linux systems and learning how to improve my effectiveness and
+            speed as a developer. I fell in love with technology as a TAM at Yahoo's Ad Exchange
+            where I built custom analytics solutions for marketers and realized that you can do
+            quite a bit with open source tools if you're willing to put in the time to learn and if
+            you're lucky enough to meet some life-changing mentors along the way. I've been
+            developing in Fedora and Redhat environments for a long time and recently taught myself
+            dvorak on a kinesis keyboard along with transitioning to a completely neovim based
+            workflow with more than 100 plugins thanks to the incredible population of other
+            like-minded maniac vimmers who think that developer speed and shortcuts are more
                         important than food or water.</span>
 					</div>
 				</div>
