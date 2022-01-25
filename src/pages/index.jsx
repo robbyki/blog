@@ -31,46 +31,20 @@ const IndexPage = () => {
 						</a>
 					</div>
 					<div className={style.content}>
-	    <span> My name is Robby and besides for being the best father and
-						husband I can be to my beautiful
-						children and wife, I spend a
-						great deal of my time at a
-						terminal I tend to call my happy
-						place. Like many others, my
-						pathway to programming was not a
-						conventional one and my destiny
-						decided that I would ignite my
-						career a little later in life
-						but I'm grateful none the less
-						that it eventually found me or I
-						found it. As you get older it's
-						fun to get increasing clarity
-						about the fundamentals that
-						propel you forward in life; of
-						course the nature of the work
-						and the tasks change over time
-						but the lowest common
-						denominator and the elemental
-						fuel that gets you up each
-						morning I would argue are not as
-						fluid. I fell in love with
-						technology when I realized what
-						it allowed me to achieve even
-						with completely free software
-						and a few life changing mentors
-						along the way. That level of
-						freedom and control I
-						experienced over my own
-						production constrained by the
-						limits of my imagination and
-						creativity (and learned skills)
-						was and has always been pretty
-						intoxicating. I've been
-						developing in Fedora and Redhat
-						environments for a long time and
-						recently transitioned to a
-						completely neovim based
-						workflow.</span>
+        <span> My name is Robby and besides for being the best father and husband I can be to my
+            beautiful children and wife, I spend a great deal of my time at a terminal tinkering
+            with Linux systems and like many others, my pathway to programming was not a
+            conventional one. As you get older it's fun to get increasing clarity about the
+            fundamentals that propel you forward in life and the elemental fuel that gets you up
+            each morning which I would argue are not as fluid as changing tasks or languages. I fell
+            in love with technology when I realized what it allowed me to achieve even with
+            completely free software and a few life changing mentors along the way. That level of
+            freedom and control I experienced over my own production constrained by the limits of my
+            imagination and creativity and learned skills was and has always been pretty
+            intoxicating for me. I've been developing in Fedora and Redhat environments for a long
+            time and recently transitioned to a completely neovim based workflow with more than 100
+            plugins thanks to the incredible population of other like-minded maniacs who think that
+            developer speed and shortcuts are more important than food or water.</span>
 					</div>
 				</div>
 			</div>
