@@ -34,14 +34,14 @@ const IndexPage = () => {
         <span> My name is Robby and besides for being focused on trying to be the best father and
             husband I can be to my beautiful wife and children, I spend a great deal of my time at a
             terminal tinkering with Linux systems and learning how to improve my effectiveness and
-            speed as a developer. I fell in love with technology as a TAM at Yahoo's Ad Exchange
-            where I built custom analytics solutions for marketers and realized that I can do quite
-            a bit with open source tools and a few life-changing mentors. I've been developing in
-            Fedora and Redhat environments for a long time and recently taught myself dvorak on a
-            kinesis keyboard along with transitioning to a completely neovim based workflow with
-            more than 100 plugins thanks to the incredible population of other like-minded maniac
-            vimmers who think that developer speed and shortcuts are more important than food or
-            water.</span>
+            speed as a developer. I'm currently a software developer at IBM and fell in love with
+            technology as a TAM at Yahoo's Ad Exchange where I built custom analytics solutions for
+            marketers and realized that I can do quite a bit with open source tools and a few
+            life-changing mentors. I've been developing in Fedora and Redhat environments for a long
+            time and recently taught myself dvorak on a kinesis keyboard along with transitioning to
+            a completely neovim based workflow with more than 100 plugins thanks to the incredible
+            population of other like-minded maniac vimmers who think that developer speed and
+            shortcuts are more important than food or water.</span>
 					</div>
 				</div>
 			</div>
