@@ -34,14 +34,17 @@ const IndexPage = () => {
         <span> My name is Robby and besides for being focused on trying to be the best father and
             husband I can be to my beautiful wife and children, I spend a great deal of my time at a
             terminal tinkering with Linux systems and learning how to improve my effectiveness and
-            speed as a developer. I'm currently a software developer at IBM and fell in love with
-            technology as a TAM at Yahoo's Ad Exchange where I built custom analytics solutions for
-            marketers and realized that I can do quite a bit with open source tools and a few
+            speed as a developer. I'm currently a software developer at IBM where I help data
+            engineering teams with the application tooling and frameworks for deploying distributed
+            applications to Kubernetes and Openshift. I fell in love with technology as a TAM at
+            Yahoo's Ad Exchange where I built custom analytics solutions for marketers and realized
+            that I can do quite a bit with a database and scripting things with Python and a few
             life-changing mentors. I've been developing in Fedora and Redhat environments for a long
-            time and recently taught myself dvorak on a kinesis keyboard along with transitioning to
-            a completely neovim based workflow with more than 100 plugins thanks to the incredible
-            population of other like-minded maniac vimmers who think that developer speed and
-            shortcuts are more important than food or water.</span>
+            time and have always enjoyed the art and science of showcasing technical solutions to
+            problems with compelling demos and narratives using open source tools. On a personal
+            level, I use dvorak on a kinesis and my primary workflow leverages more than 100 neovim
+            plugins thanks to the incredible population of other like-minded maniac vimmers who
+            think that developer speed and shortcuts are more important than food or water.</span>
 					</div>
 				</div>
 			</div>
