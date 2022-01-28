@@ -4,7 +4,7 @@ description: description
 date: "2019-06-25"
 image: "miniconda.jpg"
 author: "Robby"
-tags: ["tekton"]
+tags: ["tbd"]
 ---
 <!---->
 <!-- This guide will show you how to install the latest version of Miniconda. Miniconda is a lightweight version of Anaconda: a virtual environment manager for Python. -->
