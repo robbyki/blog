@@ -2,7 +2,7 @@
 title: TBD
 description: description
 date: "2019-06-25"
-image: "miniconda.jpg"
+image: "git.png"
 author: "Robby"
 tags: ["tbd"]
 ---

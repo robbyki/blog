@@ -1,7 +1,7 @@
 ---
-title: TBD
-date: "2020-10-07"
-image: "stupid-java-meme.png"
+title: Not Another VSCode to Neovim Post
+date: "2020-01-28"
+image: "neovim.png"
 author: "Robby"
 tags: ["opinion"]
 ---
