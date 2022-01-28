@@ -50,7 +50,7 @@ const IndexPage = () => {
         as it can be challenging. I'm a big fan of anything linux and have been
         using Fedora and Redhat environments for a long time. On a personal
         level, I use dvorak on a kinesis and my primary workflow consists of a
-        fully customized neovim setup I enjoy continually optimizing.</span>
+        fully customized neovim setup I enjoy continually tweaking.</span>
 					</div>
 				</div>
 			</div>
