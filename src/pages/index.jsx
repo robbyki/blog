@@ -43,13 +43,13 @@ const IndexPage = () => {
             tooling and frameworks for designing ETL workloads and deploying
             microservice based applications to container platforms. My journey
             as a technologist started as a TAM at Yahoo's Ad Exchange where I
-            built custom analytics solutions for marketers where I quickly
-            learned that building tooling and products that resonated with
-            end-users can be as rewarding as it can be challenging. I'm a big
-            fan of anything linux and have been using fedora and redhat
-            environments for a long time. On a personal level, I use dvorak on a
-            kinesis and my primary workflow consists of a fully customized
-            neovim setup I enjoy continually optimizing.</span>
+            built custom analytics solutions for marketers and learned that
+            building tooling and products that resonated with end-users can be
+            as rewarding as it can be challenging. I'm a big fan of anything
+            linux and have been using fedora and redhat environments for a long
+            time. On a personal level, I use dvorak on a kinesis and my primary
+            workflow consists of a fully customized neovim setup I enjoy
+            continually optimizing.</span>
 					</div>
 				</div>
 			</div>
