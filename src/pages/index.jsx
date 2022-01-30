@@ -11,7 +11,7 @@ import style from "./index.module.less"
 const IndexPage = () => {
 	return (
 		<Layout>
-			<h1 style={{ textAlign: "center", marginTop: "80px" }}>hey there</h1>
+			<h1 style={{ textAlign: "center", marginTop: "80px" }}>hi there</h1>
 			<SEO title="Home" keywords={["robkiskanyan"]} />
 			<div className={style.card}>
 				<div className={style.post}>
