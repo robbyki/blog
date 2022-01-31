@@ -1,10 +1,13 @@
 ---
 title: Not Another VSCode to Neovim Post
-date: "2020-01-28"
+date: "2022-01-31"
 image: "neovim.png"
 author: "Robby"
 tags: ["opinion"]
 ---
+ 
+## Coming Soon
+
 <!---->
 <!-- - Oracle makes my life more difficult than it needs to be -->
 <!---->
