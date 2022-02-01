@@ -12,23 +12,30 @@ tags: ["opinion"]
 
 I've been working in Linux systems and vim for a long time and deciding to use
 Linux both for my personal machines as well as for my work is without a question
-the most consequential decision I've made in my career. I am not going to sugar
-coat it, if you are another maniac who also likes to understand the deep layers
-of a system and is afflicted with not being happy unless you understand exactly
-how something works and then being able to fully customize it to your needs,
-then I'm very sorry and welcome to the club. There is without a doubt a unique
-kinship I have noticed among those of us who like to tinker and take full
-control to "rice" every bit of a workflow to achieve faster navigation and I
-think a lot of it has to do with the fact that we share a common trait when it
-comes to wrangling one's own environment not only because it minimizes context
-switching for your brain and allows you to combine thinking and doing as close
-to one another as possible but I would argue because it expresses who you are
-unlike anything else can. It's pretty incredible if you did a search on github
-for all of the different styles of configurations out there when it comes to vim
-settings and customization and I now have my own story of how and why I decided
-to build out my environment especially since the 0.5 release with built-in LSP
-features which has been absolutely a major game changer not just for me but for
-an entire community of text editors who like to be in control.
+the most consequential decision I've made in my career. If I were to sum up the
+major reason why using Linux has been a net positive despite the downsides of
+maintenance and troubleshooting that is inherently a part of being a Linux user,
+I would say that it's because it always forces me to stay low level and away
+from abstractions and as a very direct result, continually lets me exercise my
+systems and CLI muscles which have been applicable in countless scenarios and
+gives me the confidence to pretty much tackle any problem having to do with
+tooling and open source integrations. I am not going to sugar coat it, if you
+are another maniac who also likes to understand the deep layers of a system and
+is afflicted with not being happy unless you understand exactly how something
+works and then being able to fully customize it to your needs, then I'm very
+sorry and welcome to the club. There is without a doubt a unique kinship I have
+noticed among those of us who like to tinker and take full control to "rice"
+every bit of a workflow to achieve faster navigation and I think a lot of it has
+to do with the fact that we share a common trait when it comes to wrangling
+one's own environment not only because it minimizes context switching for your
+brain and allows you to combine thinking and doing as close to one another as
+possible but I would argue because it expresses who you are unlike anything else
+can. It's pretty incredible if you did a search on GitHub for all of the
+different styles of configurations out there when it comes to vim settings and
+customization and I now have my own story of how and why I decided to build out
+my environment especially since the 0.5 release with built-in LSP features which
+has been absolutely a major game changer not just for me but for an entire
+community of folks who prefer to roll their own environment.
 
 If you've been programming long enough you probably have seen your share of tools
 and language wars and after a while you begin to realize the infinity of it all
@@ -70,7 +77,7 @@ other tools just didn't provide the same features I needed with speed and
 integration with other plugins but it wasn't that at all and it perfectly
 exemplified why I have always needed to be at a deeper lever of systems and
 environment control. You can throw thousands of the most brilliant developers at
-building a tool, the inherent problem is that the maniac population of neovim
+building a tool, the inherent problem is that the lunatic population of neovim
 users want to be the ones who put it together and have to feel the rush of the
 creation process in the end. It's that simple. Like many others, I absolutely do
 not believe that building and maintaining your own environment is suited for
@@ -86,8 +93,24 @@ the actual work. If you get a high from being in full control despite the costs
 involved and you can comfortably go to bed at night and feel happy knowing that
 you built your own environment and it lives and breathes precisely as you do and
 it's a symbiotic system that understands exactly how you think and will be in
-complete harmony with how you think and navigate a system then go for it.
-
+complete harmony with how you think and navigate a system then go for it. I
+still really love VSCode even if only from a purely aesthetic point of view and
+VSCode might just be one of the only Graphical User Interfaces I don't feel is
+insulting my intelligence and tries to hide every bit of complexity from me. The
+inherent problem with hiding every bit of complexity from the user especially
+among developers is that they will always rebel as a result. I can't even
+imagine the challenges and the trade-offs the Microsoft team has to continually
+make in order to toe the line and not necessarily keep every user happy but to
+keep as many as possible happy. I think they have a pretty good understanding at
+this point who their core users are and as long as they don't try to start
+meeting the needs of more diverse users, I feel like they can continue to create
+a pretty respectable and hugely popular and focused product. Just the fact that
+their terminal integration allows me to fire up my own alacritty terminal
+directly in VSCode is really nice if I find myself in a massive project with a
+huge number of folders and packages typical of larger Java and Scala
+applications. What I do thing can use a lot more work are the vim keybindings
+plugin which currently has two versions you can choose from. 
+ 
 In an upcoming post I'm going to showcase my specific setup with neovim that
 demonstrates all of the tweaks allowing me to minimize that thinking versus
 doing barrier. 
