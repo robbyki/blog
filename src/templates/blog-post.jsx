@@ -24,11 +24,11 @@ function BlogPost(props) {
       return (
         <GitalkComponent
           options={{
-            clientID: "fbe3eb4cb8351d49fb9c",
-            clientSecret: "7d0c29add206d5bc85fc78f27237b49b08e602d0",
-            repo: "blog_comments",
-            owner: "RobbyKiskanyan",
-            admin: ["RobbyKiskanyan"],
+            clientID: "936c574133992a0810d3",
+            clientSecret: "035cb6df8dbea2a0a08c2412e509814cfbb2a02a",
+            repo: "blog-comments",
+            owner: "robbyki",
+            admin: ["robbyki"],
             id: id,
             title: title,
             distractionFreeMode: false,
