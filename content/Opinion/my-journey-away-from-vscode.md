@@ -71,7 +71,10 @@ comes to being at a CLI was something that VSCode was simply never going to be
 able compete with. Furthermore, the act and the exercise of building your own
 environment from scratch I would highly argue is probably similar to the person
 who would never accept buying a factory-built BMW in place of a custom-built
-one.
+one. I think the somewhat hilarious part is the community of developers clearly
+appreciating all of the aesthetics of VSCode and incorporating many of the
+open source visual features such as colorschemes or icons into their own vim or neovim
+environment.
 
 I always just assumed that I liked defaulting back to using vim because the
 other tools just didn't provide the same features I needed with speed and
