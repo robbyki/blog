@@ -8,7 +8,7 @@ tags: ["opinion"]
 
 [$\rightarrow$ My Dotfiles](https://github.com/robbyki/Dotfiles)
 
-#### I try not to see Neovim and VSCode as mutually
+#### I try not to see Neovim and VSCode as mutually exclusive
 
 I've been working in Linux systems and vim for a long time and deciding to use
 Linux both for my personal machines as well as for my work is without a question
