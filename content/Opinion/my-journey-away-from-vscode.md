@@ -37,6 +37,9 @@ my environment especially since the 0.5 release with built-in LSP features which
 has been absolutely a major game changer not just for me but for an entire
 community of folks who prefer to roll their own environment.
 
+**My dotfiles re-write journey from vimscripts to native lua:**
+<div style="text-align:center"><img src="/src/images/dotfiles-commits.png" alt="Me"/></div>
+
 If you've been programming long enough you probably have seen your share of tools
 and language wars and after a while you begin to realize the infinity of it all
 and the silliness with even holding a strong position of any kind and I am just
@@ -102,17 +105,18 @@ still really love VSCode even if only from a purely aesthetic point of view and
 VSCode might just be one of the only Graphical User Interfaces I don't feel is
 insulting my intelligence and tries to hide every bit of complexity from me. The
 inherent problem with hiding every bit of complexity from the user especially
-among developers is that they will always rebel as a result. I can't even
-imagine the challenges and the trade-offs the Microsoft team has to continually
-make in order to toe the line and not necessarily keep every user happy but to
-keep as many as possible happy. I think they have a pretty good understanding at
-this point who their core users are and as long as they don't try to start
-meeting the needs of more diverse users, I feel like they can continue to create
-a pretty respectable and hugely popular and focused product. Just the fact that
-their terminal integration allows me to fire up my own alacritty terminal
-directly in VSCode is really nice if I find myself in a massive project with a
-huge number of folders and packages typical of larger Java and Scala
-applications. 
+among developers is that they will always rebel as a result. 
+
+I can't even imagine the challenges and the trade-offs the Microsoft team has to
+continually make in order to toe the line and not necessarily keep every user
+happy but to keep as many as possible happy. I think they have a pretty good
+understanding at this point who their core users are and as long as they don't
+try to start meeting the needs of more diverse users, I feel like they can
+continue to create a pretty respectable and hugely popular and focused product.
+Just the fact that their terminal integration allows me to fire up my own
+alacritty terminal directly in VSCode is really nice if I find myself in a
+massive project with a huge number of folders and packages typical of larger
+Java and Scala applications. 
 
 In an upcoming post I'm going to showcase my specific setup with neovim that
 demonstrates all of the tweaks allowing me to minimize that thinking versus
