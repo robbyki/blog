@@ -37,9 +37,10 @@ my environment especially since the 0.5 release with built-in LSP features which
 has been absolutely a major game changer not just for me but for an entire
 community of folks who prefer to roll their own environment.
 
-**My dotfiles re-write journey from vimscripts to native lua:**
-<div style="text-align:center"><img src="/src/images/dotfiles-commits.png" alt="Me"/></div>
+<!-- **My dotfiles re-write journey from vimscripts to native lua:** -->
+<!-- <div style="text-align:center"><img src="/home/robbyk/dev/blog/content/Opinion/dotfiles-commits.png" alt="dotfiles"/></div> -->
 
+<!-- ![myimage](/home/robbyk/dev/blog/content/Opinion/dotfiles-commits.png) -->
 If you've been programming long enough you probably have seen your share of tools
 and language wars and after a while you begin to realize the infinity of it all
 and the silliness with even holding a strong position of any kind and I am just
