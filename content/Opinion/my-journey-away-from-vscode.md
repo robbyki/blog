@@ -50,27 +50,28 @@ them that they really need to consider ditching Jetbrains IntelliJ for VSCode
 because the speed and extensions ecosystem wasn't even comparable and they would
 really appreciate how snappy it feels. After seeing me use VSCode a few times
 they decided to give it a spin and I tried to ease the transition for them by
-sharing my settings.json file which was finally a really nice and intuitive
-way to customize and properly version control settings. After spending a lot of
-time tweaking VSCode, I really liked how it felt and it was obvious that I was
-not alone with that feeling by the look of SO's developer surveys showing
-VSCode eating Jetbrain's for lunch. What was happening? Well, firstly I think
-that developers in general appreciated the performance but also appreciated the
+sharing my settings.json file which was finally a really nice and intuitive way
+to customize and properly version control settings. After spending a lot of time
+tweaking VSCode, I really liked how it felt and it was obvious that I was not
+alone with that feeling by the look of SO's developer surveys showing VSCode
+eating Jetbrain's for lunch. What was happening? Well, firstly I think that
+developers in general appreciated the performance but also appreciated the
 control they were being given. I certainly liked that I felt like I can have
 more control over my IDE and everything just felt so much more responsive over
 and over again regardless of however many extensions I had. Here comes the weird
-part for me though...a few months later I was back in vim and going crazy
-configuring my environment there when there was absolutely nothing wrong with
-VSCode whatsoever. That's when I had a personal revelation about the fact that
-it wasn't about speed or control in the end at all. Yes, the Microsoft team was
-doing a terrific job with giving the user a better experience when it comes to
-configurations and personalization but at the end of the day, going down to the
-level of vimscripts or lua scripts and more importantly being at the lowest
-system level when it comes to being at a CLI was something that VSCode was
-simply never going to be able compete with. Furthermore, the act and the
-exercise of building your own environment from scratch I would highly argue is
-probably similar to the person who would never accept buying a factory-built BMW
-in place of a custom-built one.
+part for me though...a few months later I was back in vim going crazy
+configuring my environment even when there was absolutely nothing wrong with
+VSCode whatsoever and despite how many things VSCode was getting right. That's
+when I had a personal revelation about the fact that it wasn't about speed or
+control in the end at all. Yes, the Microsoft team was doing a terrific job with
+giving the user a better experience when it comes to configurations and
+personalization but at the end of the day, going down to the level of vimscripts
+or lua scripts and more importantly being at the lowest system level when it
+comes to being at a CLI was something that VSCode was simply never going to be
+able compete with. Furthermore, the act and the exercise of building your own
+environment from scratch I would highly argue is probably similar to the person
+who would never accept buying a factory-built BMW in place of a custom-built
+one.
 
 I always just assumed that I liked defaulting back to using vim because the
 other tools just didn't provide the same features I needed with speed and
@@ -83,7 +84,7 @@ creation process in the end. It's that simple. Like many others, I absolutely do
 not believe that building and maintaining your own environment is suited for
 everyone and a good way to think about it is to not see it as a binary choice of
 better or worst at all actually. It has nothing to do with which one is better
-of faster. It has everything to do with what gives you the most gratification in
+or faster. It has everything to do with what gives you the most gratification in
 the end. Do you need to be in the drivers seat and before you think that sounds
 like a really nice seat to be in -- don't. Being in the drivers seat means you
 are going to be spending a very significant amount of your time trying to learn
@@ -108,9 +109,8 @@ a pretty respectable and hugely popular and focused product. Just the fact that
 their terminal integration allows me to fire up my own alacritty terminal
 directly in VSCode is really nice if I find myself in a massive project with a
 huge number of folders and packages typical of larger Java and Scala
-applications. What I do thing can use a lot more work are the vim keybindings
-plugin which currently has two versions you can choose from. 
- 
+applications. 
+
 In an upcoming post I'm going to showcase my specific setup with neovim that
 demonstrates all of the tweaks allowing me to minimize that thinking versus
 doing barrier. 
