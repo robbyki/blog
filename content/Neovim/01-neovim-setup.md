@@ -1,10 +1,10 @@
 ---
-title: TBD
-description: description
-date: "2022-01-30"
-image: "git.png"
+title: Using Neovim for Nearly Everything
+description: My neovim setup and configuration
+date: "2022-02-01"
+image: "neovim.png"
 author: "Robby"
-tags: ["tbd"]
+tags: ["neovim"]
 ---
 
 ## Coming Soon
