@@ -3,7 +3,7 @@ title: Not Another VSCode to Neovim Post
 date: "2022-01-31"
 image: "neovim.png"
 author: "Robby"
-tags: ["opinion"]
+tags: ["opinion", "neovim"]
 ---
 
 [$\rightarrow$ My Dotfiles](https://github.com/robbyki/Dotfiles)

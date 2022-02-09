@@ -1,7 +1,7 @@
 ---
 title: Getting warmed up with Hello World on OpenShift
 description: Deploying hello world to openshift
-date: "2022-02-15"
+date: "2022-02-01"
 image: "red-hat-openshift-vector-logo.png"
 author: "Robby"
 tags: ["openshift", "kubernetes"]
