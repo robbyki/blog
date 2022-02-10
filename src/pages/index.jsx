@@ -32,25 +32,24 @@ const IndexPage = () => {
 					</div>
 					<div className={style.content}>
         <span>My name is Robby and besides for being focused on trying to be the
-        best father and husband I can be to my beautiful wife and children, I
-        spend a great deal of my time at a terminal tinkering with linux systems
-        and learning how to improve my effectiveness and speed as a developer
-        and thinker. I enjoy creating compelling communication and content
-        showcasing novel solutions to complex problems and have been
-        architecting and designing against enterprise grade stacks for more than
-        a decade. I'm currently a software developer at IBM where I help
-        engineering teams with the application tooling and frameworks for
-        designing ETL workloads and deploying microservice based applications to
-        container platforms. I consider myself both a life-long student and a
-        mentor and have always considered the latter a gratifying and integral
-        part of my growth as a human and as a leader. My journey as a
-        technologist started as a TAM at Yahoo's Ad Exchange where I built
-        custom analytics solutions for marketers and learned that building
-        tooling and products that resonated with end-users can be as rewarding
-        as it can be challenging. I'm a big fan of anything linux and have been
-        using Fedora and Redhat environments for a long time. On a personal
-        level, I use dvorak on a kinesis and my primary workflow consists of a
-        fully customized neovim setup I enjoy continually tweaking.</span>
+            best father and husband I can be to my beautiful wife and children,
+            I spend a great deal of my time at a terminal tinkering with linux
+            systems and learning how to improve my effectiveness and speed as a
+            developer and thinker. I enjoy creating compelling communication and
+            content showcasing novel and elegant solutions to complex problems
+            with open source technology and have been architecting and building
+            tools and software against enterprise grade stacks for more than a
+            decade. I'm currently a software developer at IBM where I help
+            engineering teams with the application tooling and frameworks for
+            designing and deploying cloud-native distributed ETL workloads on
+            Kubernetes. My journey as a technologist started as a TAM at Yahoo's
+            Ad Exchange where I built custom analytics solutions for marketers
+            primarily using Python and learned that building tooling and
+            products that resonated with end-users can be as rewarding as it can
+            be challenging. I'm a big fan of anything Linux and have been using
+            Fedora and Redhat environments for a long time. On a personal level,
+            I use dvorak on a kinesis keyboard and my primary workflow consists
+            of a fully customized neovim setup I enjoy obsessively tweaking.</span>
 					</div>
 				</div>
 			</div>
