@@ -21,6 +21,9 @@ that I can at least get some nice property suggestions and validations as I
 create my yaml CRDs. You can check out my latest video on how to do this
 [here](https://www.youtube.com/watch?v=afV2WQsS0Cw&t=127s).
 
+
+<iframe width="1036" height="583" src="https://www.youtube.com/embed/afV2WQsS0Cw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Some things you will need
 
 * openapi2jsonschema from pip
