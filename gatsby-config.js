@@ -42,7 +42,7 @@ module.exports = {
         background_color: `#1e2127`,
         theme_color: `#1e2127`,
         display: `minimal-ui`,
-        icon: `src/images/cam-logo.png`, // This path is relative to the root of the site.
+        icon: `src/images/robby-icon.png`, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-less`,
