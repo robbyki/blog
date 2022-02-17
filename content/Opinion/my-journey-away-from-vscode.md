@@ -8,7 +8,7 @@ tags: ["opinion", "neovim"]
 
 [$\rightarrow$ My Dotfiles](https://github.com/robbyki/Dotfiles)
 
-#### I try not to see Neovim and VSCode as mutually exclusive
+#### I try not to see Neovim and VSCode as mutually exclusive but not sure if it's working.
 
 I've been working in Linux systems and vim for a long time and deciding to use
 Linux both for my personal machines as well as for my work is without a question
@@ -72,7 +72,7 @@ giving the user a better experience when it comes to configurations and
 personalization but at the end of the day, going down to the level of vimscripts
 or lua scripts and more importantly being at the lowest system level when it
 comes to being at a CLI was something that VSCode was simply never going to be
-able compete with. Furthermore, the act and the exercise of building your own
+able to compete with. Furthermore, the act and the exercise of building your own
 environment from scratch I would highly argue is probably similar to the person
 who would never accept buying a factory-built BMW in place of a custom-built
 one. I think the somewhat hilarious part is the community of developers clearly
