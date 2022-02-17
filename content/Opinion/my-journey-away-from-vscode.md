@@ -1,5 +1,5 @@
 ---
-title: Not Another VSCode to Neovim Post
+title: Not Another VSCode to Neovim...
 date: "2022-01-31"
 image: "neovim.png"
 author: "Robby"
