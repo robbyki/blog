@@ -52,17 +52,15 @@ const IndexPage = () => {
                             preparing and creating a performance and love
                             hearing myself sound really smart after learning
                             something new...probably a vestige from my early
-                            days as an athlete hungry for the chance to
-                            showcase something in front of a crowd, who knows.
-                            To put it a little differently, I consider myself
-                            an introvert who loves to perform in front of a
-                            crowd. Yeah, I get what a disturbing clusterf%!#!
-                            that might be to your brain but get used to it, it
-                            happens. Being an introvert who loves to go deep
-                            does NOT always mean that you can't be also be a
-                            verbose lunatic at times, just ask my wife, she
-                            always tells me to stop talking so much. Please
-                            check yourself if you accidentally or intentionally
+                            days as an athlete, who knows. To put it a little
+                            differently, I consider myself an introvert who
+                            loves to perform in front of a crowd. Yeah, I get
+                            what a disturbing clusterf%!#! that might be to
+                            your brain but get used to it, it happens. Being an
+                            introvert who loves to go deep does NOT always mean
+                            that you can't be also be a verbose lunatic at
+                            times, just ask my wife, she always tells me to
+                            stop talking so much. Please check yourself if you
                             find yourself type casting and stifling the
                             awesomeness that introverts may have to offer.
                             (Notice how I just said way too much and didn't
