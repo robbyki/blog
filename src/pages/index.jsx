@@ -7,7 +7,8 @@ import Nvim from "../images/mynvim-screenshot.png"
 // import ThisBlog from "../images/this-blog.png"
 // import Gatr from "../images/gatr.png"
 import style from "./index.module.less"
-import Me from "../images/robby-portrait.jpg"
+// import Me from "../images/robby-portrait.jpg"
+import Me from "../images/robby-reed.png"
 
 // import ThisBlog from "../images/this-blog.png"
 // import Gatr from "../images/gatr.png"
@@ -36,31 +37,48 @@ const IndexPage = () => {
                     </div>
                     <div className={style.content}>
                         <span>My name is Robby and besides for being focused on
-                            trying to be the best father and husband I can be to
-                            my beautiful wife and children, I spend a great deal
-                            of my time at a terminal tinkering with linux
-                            systems and learning how to improve my effectiveness
-                            and speed as a developer and thinker. I enjoy
-                            creating compelling communication and content
-                            showcasing novel and elegant solutions to complex
-                            problems with open source technology and have been
-                            architecting and building tools and software against
-                            enterprise grade stacks for more than a decade. I'm
-                            currently a software developer at IBM where I help
-                            engineering teams with the application tooling and
-                            frameworks for designing and deploying cloud-native
-                            distributed ETL workloads on Kubernetes. My journey
-                            as a technologist started as a TAM at Yahoo's Ad
-                            Exchange where I built custom analytics solutions,
-                            primarily using Python, for marketers and learned
-                            that building tooling and products that resonated
-                            with end-users can be as rewarding as it can be
-                            challenging. I'm a big fan of anything Linux and
-                            have been using Fedora and Redhat environments for a
-                            long time. On a personal level, I use dvorak on a
-                            kinesis keyboard and my primary workflow consists of
-                            a fully customized neovim setup I enjoy obsessively
-                        tweaking.</span>
+                            trying to not shamefully and irredeemably fail as a
+                            father and husband (yes, that's my success kpi
+                            right now while co-parenting to keep a baby alive
+                            while also running after a 4 year old before
+                            crashing onto a bed by 8pm every night), I spend a
+                            great deal of my time at a terminal tinkering with
+                            linux systems and anything open source. My current
+                            obsessions like every other person on the planet
+                            these days involves writing about technical stuff
+                            and creating videos not so much to gift others with
+                            my genius and to showoff all of my shortcuts but
+                            because I get a thrill from the pressure of
+                            preparing and creating a performance and love
+                            hearing myself sound really smart after learning
+                            something new...probably a vestige from my early
+                            days as an athlete hungry for the chance to
+                            showcase something in front of a crowd, who knows.
+                            To put it a little differently, I consider myself
+                            an introvert who loves to perform in front of a
+                            crowd. Yeah, I get what a disturbing clusterf%!#!
+                            that might be to your brain but get used to it, it
+                            happens. Being an introvert who loves to go deep
+                            does NOT always mean that you can't be also be a
+                            verbose lunatic at times, just ask my wife, she
+                            always tells me to stop talking so much. Please
+                            check yourself if you accidentally or intentionally
+                            find yourself type casting and stifling the
+                            awesomeness that introverts may have to offer.
+                            (Notice how I just said way too much and didn't
+                            shut up soon enough about this?). A lot of my
+                            inspiration as a technologist comes from the
+                            hacking culture and the mindset that the computer
+                            is not a tool to accomplish a task but an extension
+                            of who we are that can symbiotically shape the way
+                            we think and do things. I'm currently a software
+                            developer at IBM where I help engineering teams
+                            with the application tooling and frameworks for
+                            designing and deploying cloud-native containerized
+                            workloads on Kubernetes. I've been using Fedora and
+                            Redhat environments for a long time and I my HCI of
+                            choice is the coolest neovim setup and typing
+                            dvorak on a kinesis advantage keyboard.</span>
                     </div>
                 </div>
             </div>
