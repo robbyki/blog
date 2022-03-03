@@ -57,8 +57,8 @@ const IndexPage = () => {
                             loves to perform in front of a crowd. Yeah, I get
                             what a disturbing clusterf%!#! that might be to
                             your brain but get used to it, it happens. Being an
-                            introvert who loves to go deep does NOT always mean
-                            that you can't be also be a verbose lunatic at
+                            introvert who loves to go deep does not always mean
+                            that you can't also be a verbose lunatic at
                             times, just ask my wife, she always tells me to
                             stop talking so much. Please check yourself if you
                             find yourself type casting and stifling the
