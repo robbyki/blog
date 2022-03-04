@@ -46,7 +46,7 @@ const IndexPage = () => {
                             linux systems and anything open source. My current
                             obsessions involve communicating technical content
                             I consider fun and creating videos not so much to
-                            gift others with my genius and showoff all of my
+                            gift others with my genius and showeoff all of my
                             shortcuts but because I get a thrill from the
                             pressure of preparing and creating compelling
                             material that hopefully resonates with others and
