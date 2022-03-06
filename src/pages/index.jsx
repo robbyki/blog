@@ -43,26 +43,26 @@ const IndexPage = () => {
                             while also running after a 4 year old before
                             crashing onto a bed by 8pm every night), I spend a
                             great deal of my time at a terminal tinkering with
-                            linux systems and anything open source. My current
+                            linux systems and anything open-source. My current
                             obsessions involve communicating technical content
                             I consider fun and creating videos not so much to
                             gift others with my genius and showeoff all of my
-                            shortcuts but because I get a thrill from the
-                            pressure of preparing and creating compelling
-                            material that hopefully resonates with others and
-                            most importantly to hear myself sound really smart
-                            after learning something new...probably a vestige
-                            from my early days as an athlete, who knows. To put
-                            it a little differently, I consider myself an
-                            introvert who loves to perform after learning
-                            something. Yeah, I get what a disturbing
-                            clusterf%!#! that might be to your brain but get
-                            used to it, it happens. Being an introvert who
-                            loves to go deep does not always mean that you
-                            can't also be a verbose lunatic at times, just ask
+                            shortcuts but because I get a thrill from the act
+                            of preparing for something being watched that
+                            hopefully resonates with others and most
+                            importantly to hear myself sound really smart after
+                            learning something new...probably a vestige from my
+                            early days as an athlete, who knows. To put it a
+                            little differently, I consider myself an introvert
+                            who loves to perform after learning something.
+                            Yeah, I get what a disturbing clusterf%!#! that
+                            might be to your brain but get used to it, it
+                            happens. Being an introvert who loves to go deep
+                            does not always mean that you can't also engage in
+                            helpful or compelling dialogue at times, just ask
                             my wife, she's always telling me to stop talking so
-                            much. Please check yourself if you find yourself
-                            type casting and stifling the awesomeness that
+                            much. Please remember to never inadvertently
+                            typecast or stifle the awesomeness that
                             introverts may have to offer. (Notice how I just
                             said way too much and didn't shut up soon enough
                             about this?). A lot of my inspiration as a
