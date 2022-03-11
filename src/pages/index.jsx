@@ -8,7 +8,7 @@ import Nvim from '../images/mynvim-screenshot.png'
 // import Gatr from "../images/gatr.png"
 import style from './index.module.less'
 // import Me from "../images/robby-portrait.jpg"
-import Me from '../images/robby-reed.png'
+import Me from '../images/robby-cartoon.jpg'
 
 // import ThisBlog from "../images/this-blog.png"
 // import Gatr from "../images/gatr.png"
