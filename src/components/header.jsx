@@ -54,7 +54,7 @@ const Header = () => {
             <Link to={"/tags"}>Topics</Link>
           </li>
           <li>
-            <Link to={"https://robkiskanyan.s3.amazonaws.com/RobbyKiskanyanCV.pdf"}>Resume</Link>
+            <Link to={"https://robbyki.github.io/cv/"}>Resume</Link>
           </li>
         </ul>
         <ul>
