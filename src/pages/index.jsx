@@ -40,26 +40,39 @@ const IndexPage = () => {
           <div className={style.content}>
             <span>
               My name is Robby and I have spent most of my career chasing
-              something. Thanks to my family, I'm finally beginning to realize
-              that whatever it is that I'm chasing isn't really meant to be
-              caught as much as it's meant to be understood. I spend a great
-              deal of my time at a terminal tinkering with linux systems and
-              pretty much anything open-source. My current obsessions are
-              learning Go, showcasing technical topics and demonstrating
-              efficient developer workflows. To put it a little differently, I
-              consider myself an introvert who loves to perform, challenge and
-              test my skills after learning something. Yeah, I get how
-              disturbing that might sound but it happens. A lot of my
-              inspiration as a technologist comes from the hacking culture and
-              the mindset that the computer is not a tool to accomplish a task
-              but an extension of who we are that can symbiotically shape the
-              way we think and do things. I'm currently a software developer at
-              IBM where I help engineering teams with the application tooling
-              and frameworks for designing and deploying cloud-native
-              containerized workloads on Kubernetes. I've been using Fedora and
-              Redhat environments for a long time and I my HCI of choice is a
-              badass neovim setup while typing dvorak on a kinesis advantage
-              keyboard.
+              something although I'm starting to realize that the something I've
+              been chasing isn't meant to ever be caught. My fuel in life and
+              career is and always has been to break down complacency and the
+              atrophying comforts of today to re-imagine and manifest a
+              different tomorrow. That autonomous and driven mindset has also
+              granted me the fortune of having worked at some of the largest
+              tech companies in the world, yet not having had a job in more than
+              15 years. The very idea of not enjoying the work that you do or
+              not getting to permeate the full force of your unique essence into
+              your daily purpose is simply not an option in my opinion. (My wife
+              tends to be more of a compartmentalizer which creates some
+              interesting debates in our house). I cherish the inextricably
+              connected elements of risk and reward and consider one of my
+              biggest strengths to be the awareness and intuition of my own
+              weaknesses and allowing those weaknesses to guide my growth as a
+              person and as a leader steering the human energy around me. I've
+              been a competitive athlete, an english literature graduate, an
+              editor, a pre-med student, a digital marketer, an ad-tech account
+              manager, a programmer, a platform and developer advocate, a devops
+              engineer, an analyst and a tool maker. One of my favorite
+              interview questions I've heard ask is "what would your best friend
+              say about the kind of person you are and I have a feeling mine
+              might say something to the effect of "highly intentional when it
+              comes to focus and unrelenting tenacity when his mind is made up
+              about pursuing something." I vociferously despise talking for the
+              sake of talking and consider toxic and superfluous meetings meant
+              to make people feel as though they are working an anathema and one
+              of the most pernicious dangers to innovation and growth in
+              corporate culture. I'll be the first to admit that effective and
+              transformational leadership is sadly much rarer than one might
+              think but I have seen first hand and in varying degrees, the
+              effects of harnessing disparate, supportive and kind talents when
+              it comes to creating a tomorrow better than today.
             </span>
           </div>
         </div>
