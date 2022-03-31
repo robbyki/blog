@@ -43,7 +43,7 @@ const IndexPage = () => {
               something although I'm starting to realize that the something I've
               been chasing isn't meant to ever be caught. My fuel in life and
               career is and always has been to break down complacency and the
-              atrophying comforts of today to re-imagine and manifest a
+              atrophying comforts of today to re-imagine and re-invent a
               different tomorrow. That autonomous and driven mindset has also
               granted me the fortune of having worked at some of the largest
               tech companies in the world, yet not having had a job in more than
@@ -54,25 +54,26 @@ const IndexPage = () => {
               interesting debates in our house). I cherish the inextricably
               connected elements of risk and reward and consider one of my
               biggest strengths to be the awareness and intuition of my own
-              weaknesses and allowing those weaknesses to guide my growth as a
-              person and as a leader steering the human energy around me. I've
-              been a competitive athlete, an english literature graduate, an
-              editor, a pre-med student, a digital marketer, an ad-tech account
-              manager, a programmer, a platform and developer advocate, a devops
-              engineer, an analyst and a tool maker. One of my favorite
-              interview questions I've heard ask is "what would your best friend
-              say about the kind of person you are and I have a feeling mine
-              might say something to the effect of "highly intentional when it
-              comes to focus and unrelenting tenacity when his mind is made up
-              about pursuing something." I vociferously despise talking for the
-              sake of talking and consider toxic and superfluous meetings meant
-              to make people feel as though they are working an anathema and one
-              of the most pernicious dangers to innovation and growth in
-              corporate culture. I'll be the first to admit that effective and
-              transformational leadership is sadly much rarer than one might
-              think but I have seen first hand and in varying degrees, the
-              effects of harnessing disparate, supportive and kind talents when
-              it comes to creating a tomorrow better than today.
+              weaknesses and allowing those weaknesses to manifest as
+              opportunities and guide my growth as a person and as a leader
+              steering the human energy around me. I've been a competitive
+              athlete, an english literature graduate, an editor, a pre-med
+              student, a digital marketer, an ad-tech account manager, a
+              programmer, a developer framework lead, a devops engineer, an
+              analyst and a tool maker. One of my favorite interview questions
+              I've heard ask is "what would your best friend say about the kind
+              of person you are and I have a feeling mine might say something to
+              the effect of "highly intentional when it comes to focus and
+              unrelenting tenacity when his mind is made up about pursuing
+              something." I vociferously despise talking for the sake of talking
+              and consider toxic and superfluous meetings meant to make people
+              feel as though they are working an anathema and one of the most
+              pernicious dangers to innovation and growth in any environment.
+              I'll be the first to admit that effective and transformational
+              leadership is sadly much rarer than one might think but I have
+              seen first hand and in varying degrees, the effects of harnessing
+              disparate, supportive and kind talents when it comes to creating a
+              tomorrow better than today.
             </span>
           </div>
         </div>
