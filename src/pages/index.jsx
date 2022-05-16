@@ -16,9 +16,10 @@ import Me from '../images/robby-cartoon.jpg'
 const IndexPage = () => {
   return (
     <Layout>
-      <h3 style={{ textAlign: 'center', marginTop: '150px' }}>
-        Dawn Programmer. Black Coffee. Terminal Obsessed. Metawork Maniac.
-      </h3>
+      <h4 style={{ textAlign: 'center', marginTop: '150px' }}>
+        Dawn Programmer. Black Coffee. <br /> Terminal Obsessed. Metawork
+        Maniac.
+      </h4>
       <SEO title="Home" keywords={['robkiskanyan']} />
       <div className={style.card}>
         <div className={style.post}>
