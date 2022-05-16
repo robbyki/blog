@@ -16,9 +16,8 @@ import Me from '../images/robby-cartoon.jpg'
 const IndexPage = () => {
   return (
     <Layout>
-      <h3 style={{ textAlign: 'center', marginTop: '80px' }}>
-        "Sir, our sensors are showing this <br />
-        to be the absence of everything" -- Data
+      <h3 style={{ textAlign: 'center', marginTop: '150px' }}>
+        Dawn Programmer. Black Coffee. Terminal Obsessed. Metawork Maniac.
       </h3>
       <SEO title="Home" keywords={['robkiskanyan']} />
       <div className={style.card}>
