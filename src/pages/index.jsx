@@ -62,8 +62,8 @@ const IndexPage = () => {
               inspirational and transformational leadership isn't as prevalent
               as I would hope, I have seen first hand and in varying degrees,
               the effects of harnessing disparate, supportive and kind talents
-              when it comes to intentionally trying to create a tomorrow better
-              than today.
+              when it comes to intentionally creating a tomorrow incrementally
+              better than today.
             </span>
           </div>
         </div>
