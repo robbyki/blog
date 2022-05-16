@@ -46,11 +46,13 @@ const IndexPage = () => {
               energy around them. I consider myself lucky for having worked at
               some of the largest tech companies in the world, yet not having
               had a job in more than 15 years. I cherish the inextricably
-              connected elements of risk and reward and consider one of my
+              coupled elements of failure and growth and consider one of my
               biggest strengths to be the awareness and intuition of my own
               weaknesses and allowing them to manifest as opportunities and
-              guide my growth as a person, father to two kids, husband to a
-              beautiful wife and as a mentor steering the human energy around
+              guide my growth as a person, father to two kids I adore, husband
+              to a beautiful wife I learn from every day when it comes to
+              treating every human being with dignity and respect and as a
+              mentor to my colleagues hoping to inspire the human energy around
               me. I've been a competitive athlete, an english literature
               graduate, an editor, a pre-med student, a digital marketer, an
               ad-tech account manager, a programmer, a developer lead, a devops
@@ -59,11 +61,10 @@ const IndexPage = () => {
               communication meant to make people feel as though they are working
               an anathema and one of the most pernicious dangers to innovation
               and growth in any environment. In my experience, even though
-              inspirational and transformational leadership isn't as prevalent
-              as I would hope, I have seen first hand and in varying degrees,
-              the effects of harnessing disparate, supportive and kind talents
-              when it comes to intentionally creating a tomorrow incrementally
-              better than today.
+              transformational leadership isn't as prevalent as I would hope, I
+              have seen first hand and in varying degrees, the effects of
+              harnessing disparate, supportive and kind talents when it comes to
+              intentionally creating a tomorrow incrementally better than today.
             </span>
           </div>
         </div>
