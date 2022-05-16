@@ -18,7 +18,7 @@ const IndexPage = () => {
     <Layout>
       <h4 style={{ textAlign: 'center', marginTop: '150px' }}>
         Dawn Programmer. Black Coffee. <br /> Terminal Obsessed. Metawork
-        Maniac.
+        Driven.
       </h4>
       <SEO title="Home" keywords={['robkiskanyan']} />
       <div className={style.card}>
@@ -40,31 +40,30 @@ const IndexPage = () => {
           </div>
           <div className={style.content}>
             <span>
-              My fuel in life and career is and always has been to break down
-              complacency and the atrophying comforts of today to re-imagine and
-              re-invent a different tomorrow. That autonomous and driven mindset
-              has also granted me the fortune of having worked at some of the
-              largest tech companies in the world, yet not having had a job in
-              more than 15 years. The very idea of not enjoying the work that
-              you do or not getting to permeate the full force of your unique
-              essence into your daily purpose is simply not an option in my
-              opinion. I cherish the inextricably connected elements of risk and
-              reward and consider one of my biggest strengths to be the
-              awareness and intuition of my own weaknesses and allowing those
-              weaknesses to manifest as opportunities and guide my growth as a
-              person and as a leader steering the human energy around me. I've
-              been a competitive athlete, an english literature graduate, an
-              editor, a pre-med student, a digital marketer, an ad-tech account
-              manager, a programmer, a developer framework lead, a devops
-              engineer, an analyst and a tool maker. I vociferously despise
-              talking for the sake of talking and consider toxic and superfluous
-              meetings meant to make people feel as though they are working an
-              anathema and one of the most pernicious dangers to innovation and
-              growth in any environment. I'll be the first to admit that
-              effective and transformational leadership isn't as prevalent as I
-              would hope but I have seen first hand and in varying degrees, the
-              effects of harnessing disparate, supportive and kind talents when
-              it comes to creating a tomorrow better than today.
+              I am highly motivated by people who are willing to step into
+              uncomfortable situations with uncertain outcomes to test their own
+              boundaries and to re-imagine and re-invent themselves and the
+              energy around them. I consider myself lucky for having worked at
+              some of the largest tech companies in the world, yet not having
+              had a job in more than 15 years. I cherish the inextricably
+              connected elements of risk and reward and consider one of my
+              biggest strengths to be the awareness and intuition of my own
+              weaknesses and allowing them to manifest as opportunities and
+              guide my growth as a person, father to two kids, husband to a
+              beautiful wife and as a mentor steering the human energy around
+              me. I've been a competitive athlete, an english literature
+              graduate, an editor, a pre-med student, a digital marketer, an
+              ad-tech account manager, a programmer, a developer lead, a devops
+              engineer, a data analyst and a tool maker. I don't enjoy talking
+              for the sake of talking and consider toxic and superfluous
+              communication meant to make people feel as though they are working
+              an anathema and one of the most pernicious dangers to innovation
+              and growth in any environment. In my experience, even though
+              inspirational and transformational leadership isn't as prevalent
+              as I would hope, I have seen first hand and in varying degrees,
+              the effects of harnessing disparate, supportive and kind talents
+              when it comes to intentionally trying to create a tomorrow better
+              than today.
             </span>
           </div>
         </div>
