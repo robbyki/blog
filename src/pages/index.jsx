@@ -16,9 +16,10 @@ import Me from '../images/robby-cartoon.jpg'
 const IndexPage = () => {
   return (
     <Layout>
-      <h1 style={{ textAlign: 'center', marginTop: '80px' }}>
-        Not much to see here...
-      </h1>
+      <h3 style={{ textAlign: 'center', marginTop: '80px' }}>
+        "Sir, our sensors are showing this <br />
+        to be the absence of everything" -- Data
+      </h3>
       <SEO title="Home" keywords={['robkiskanyan']} />
       <div className={style.card}>
         <div className={style.post}>
@@ -39,32 +40,29 @@ const IndexPage = () => {
           </div>
           <div className={style.content}>
             <span>
-              My name is Robby and I have spent most of my career chasing
-              something although I'm starting to realize that the something I've
-              been chasing isn't meant to ever be caught. My fuel in life and
-              career is and always has been to break down complacency and the
-              atrophying comforts of today to re-imagine and re-invent a
-              different tomorrow. That autonomous and driven mindset has also
-              granted me the fortune of having worked at some of the largest
-              tech companies in the world, yet not having had a job in more than
-              15 years. The very idea of not enjoying the work that you do or
-              not getting to permeate the full force of your unique essence into
-              your daily purpose is simply not an option in my opinion. I
-              cherish the inextricably connected elements of risk and reward and
-              consider one of my biggest strengths to be the awareness and
-              intuition of my own weaknesses and allowing those weaknesses to
-              manifest as opportunities and guide my growth as a person and as a
-              leader steering the human energy around me. I've been a
-              competitive athlete, an english literature graduate, an editor, a
-              pre-med student, a digital marketer, an ad-tech account manager, a
-              programmer, a developer framework lead, a devops engineer, an
-              analyst and a tool maker. I vociferously despise talking for the
-              sake of talking and consider toxic and superfluous meetings meant
-              to make people feel as though they are working an anathema and one
-              of the most pernicious dangers to innovation and growth in any
-              environment. I'll be the first to admit that effective and
-              transformational leadership is sadly much rarer than one might
-              think but I have seen first hand and in varying degrees, the
+              My fuel in life and career is and always has been to break down
+              complacency and the atrophying comforts of today to re-imagine and
+              re-invent a different tomorrow. That autonomous and driven mindset
+              has also granted me the fortune of having worked at some of the
+              largest tech companies in the world, yet not having had a job in
+              more than 15 years. The very idea of not enjoying the work that
+              you do or not getting to permeate the full force of your unique
+              essence into your daily purpose is simply not an option in my
+              opinion. I cherish the inextricably connected elements of risk and
+              reward and consider one of my biggest strengths to be the
+              awareness and intuition of my own weaknesses and allowing those
+              weaknesses to manifest as opportunities and guide my growth as a
+              person and as a leader steering the human energy around me. I've
+              been a competitive athlete, an english literature graduate, an
+              editor, a pre-med student, a digital marketer, an ad-tech account
+              manager, a programmer, a developer framework lead, a devops
+              engineer, an analyst and a tool maker. I vociferously despise
+              talking for the sake of talking and consider toxic and superfluous
+              meetings meant to make people feel as though they are working an
+              anathema and one of the most pernicious dangers to innovation and
+              growth in any environment. I'll be the first to admit that
+              effective and transformational leadership isn't as prevalent as I
+              would hope but I have seen first hand and in varying degrees, the
               effects of harnessing disparate, supportive and kind talents when
               it comes to creating a tomorrow better than today.
             </span>
