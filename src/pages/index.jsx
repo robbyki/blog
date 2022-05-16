@@ -40,7 +40,7 @@ const IndexPage = () => {
           </div>
           <div className={style.content}>
             <span>
-              I am highly motivated by people who are willing to step into
+              I'm highly motivated by people who are willing to step into
               uncomfortable situations with uncertain outcomes to test their own
               boundaries and to re-imagine and re-invent themselves and the
               energy around them. I consider myself lucky for having worked at
